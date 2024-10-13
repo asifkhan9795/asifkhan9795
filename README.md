@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Hugging Face Transformers, OpenAI Learning Resources**
 
-- 👯 I’m looking to collaborate on [LLMs](https://github.com/asifkhan9795)
+- 👯 I’m looking to collaborate on [LLMs](https://github.com/asifkhan9795/LLMs)
 
-- 🤝 I’m looking for help with [LLMs prompt gernaration](https://github.com/asifkhan9795)
+- 🤝 I’m looking for help with [LLMs prompt gernaration](https://github.com/asifkhan9795/LLMs)
 
-- 👨‍💻 All of my projects are available at [https://github.com/asifkhan9795](https://github.com/asifkhan9795)
+- 👨‍💻 All of my projects are available at [https://github.com/asifkhan9795/Portfolio-Projects)
 
 - 💬 Ask me about **Python, SQL, PowerBi**
 
