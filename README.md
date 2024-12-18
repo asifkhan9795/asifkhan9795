@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifkhan9795" alt="asifkhan9795" /></a> </p>
 
-- 🔭 I’m currently working on [Transformer Learning](https://github.com/asifkhan9795)
+- 🔭 I’m currently working on [Vision Transformer](https://github.com/asifkhan9795)
 
 - 🌱 I’m currently learning **Hugging Face Transformers, OpenAI Learning Resources**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/asifkhan9795/Portfolio-Projects)
 
-- 💬 Ask me about **Python, SQL, PowerBi**
+- 💬 Ask me about **Machine Learning, Computer Vision, Python, SQL, PowerBi**
 
 - 📫 How to reach me **asifkhan97951official@gmail.com**
 
